@@ -51,11 +51,6 @@
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joshyyu&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
-     <td>
-       <a href="https://www.github.com/joshyyu">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=joshyyu&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
-      </a>
-    </td>
   </tr>
 </table>
 <p align="center"> 
