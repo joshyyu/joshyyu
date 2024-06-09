@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+
 - 👀 I’m interested in software development and data engineering 
 - 🌱 I’m currently still learning 
 - 🤝 I’m looking to collaborate on Apps, Games and web pages 
@@ -28,8 +29,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-
-
 <br/> <br/>
 
 <table>
@@ -54,11 +53,8 @@
   </tr>
 </table>
 
-
 <p align="center"> 
-    
 <a href="https://www.linkedin.com/in/joswel-bautista">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 </p>
