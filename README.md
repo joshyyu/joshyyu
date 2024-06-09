@@ -46,13 +46,14 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="2" align="center">
       <a href="https://www.github.com/joshyyu">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshyyu&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
+
 
 <p align="center"> 
     
