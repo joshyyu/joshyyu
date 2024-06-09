@@ -36,23 +36,24 @@
   <tr>
     <td>
       <a href="https://www.github.com/joshyyu">
-     <img src="https://github-readme-stats.vercel.app/api?username=joshyyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="joshyyu" />
+        <img src="https://github-readme-stats.vercel.app/api?username=joshyyu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="joshyyu" />
       </a>
     </td>
     <td> 
       <a href="https://www.github.com/joshyyu">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=joshyyu&hide_border=true&theme=tokyonight" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=joshyyu&hide_border=true&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2" style="text-align: center;">
       <a href="https://www.github.com/joshyyu">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joshyyu&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshyyu&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
+
 <p align="center"> 
     
 <a href="https://www.linkedin.com/in/joswel-bautista">
